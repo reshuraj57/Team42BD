@@ -1,1 +1,8 @@
+Social networking has become a major part of all our lives - main purpose being to promote and aid communication between people. Eg.: Facebook, Twitter etc. Recommendation systems exist in all the social networks, which are software tools and strategies that generate meaningful and appropriate recommendations to a group of users for items or products that they might be interested in. Movies, music, news, books, social tags, products, restaurants, financial services, life insurance, people (online dating), Facebook friends, and Twitter followers are some of the most well-known domains where the notion of recommender systems is utilized. Recommender Systems are primarily categorized on the basis of personalized recommendations and Non-personalized recommendations. Further classfied as Collaborative Filtering Systems, Content-based Filtering Systems and Hybrid recommender Systems.
 
+We have proposed a personalized friend recommendation system based on a hybrid model that combines link prediction (which is a widely used traditional method in most social media platforms and follows the friend-of-friend approach) with a neural network model for added accuracy and efficiency.
+
+![Workfloew](https://user-images.githubusercontent.com/55954262/166659282-d3f8ecfb-f2fa-47f9-9c46-f7ccc0460570.jpg)
+
+This work was implemented on Google Colab (with CPU runtime) which is an online cloud-based Jupyter Notebook environment. 
+To build the neural network, PyTorch, a Python library was used. It contains deep learning models, especially neural network-based models and has features and capabilities, including as production-ready, distributed training, a rich ecosystem etc, which makes it best to be used. 
